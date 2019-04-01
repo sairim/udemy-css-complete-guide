@@ -1,5 +1,5 @@
 #product-overview {
-    background: linear-gradient(to top, rgba(80, 68, 18, 0.6) 10%, transparent), url("images/freedom.jpg") left 10% bottom 75%/cover no-repeat border-box, #ff1b68;
+    background: linear-gradient(to top, rgba(80, 68, 18, 0.6) 10%, transparent), url("images/freedom.jpg") left 10% bottom 77%/cover no-repeat border-box, #ff1b68;
     height: 40vh;
     margin-top: 2.75rem;
     position: relative;
@@ -8,11 +8,12 @@
 .section-title { 
     color: #2ddf5c;
     text-align: center;
+    font-size: 2rem;
 }
 
 #product-overview h1 {
     color: white;
-    font-family: 'Anton', sans-serif;
+    font-family: 'Open Sans Condensed', sans-serif;
     position: absolute;
     font-weight: 300;
     font-size: 300%;
@@ -32,6 +33,10 @@
     display: inline-block;
     width: 30%;
     vertical-align: middle;
+}
+
+.plan h3 {
+    font-weight: 300;
 }
 
 .plan--highlighted {
@@ -56,6 +61,7 @@
 
 .plan__feature {
     margin: 8px 0;
+    font-weight: 700;
 }
 
 .plan__title {
