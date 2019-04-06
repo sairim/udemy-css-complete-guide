@@ -22,3 +22,15 @@
 * Using Sass and what it actually is all about
 
 #### It's a great course and I highly recommend it!
+
+### Below are two screenshots from the site you build throughout the course, showing both the desktop and mobile view.
+
+#### Homepage in Desktop View
+
+![](./screens/site-homep.png)
+
+
+
+#### Registration Form in Mobile View
+
+![](./screens/iphone-register-form.png)
